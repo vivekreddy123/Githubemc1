@@ -1,2 +1,2 @@
 This is a sample text document
-this is edited in linuxmac
+this is edited in github
